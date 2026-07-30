@@ -15,7 +15,7 @@ git remote add origin <repository-url>
 git branch -M main
 git push -u origin main
  
-# all future commands ( if all the above steps perfomed once then only below's steps are needed)
+# all future commands ( if all the above steps performed once then only below's steps are needed for continues uses)
 git add .
 git commit -m "Describe your changes"
 git push
